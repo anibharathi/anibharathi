@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manibharathi
-- 👀 I am a fresh graduate in electronics and communication engineering and seeking a job in the role of Embedded system
+- 👀 I am a PCB design and Hardware engineer
 - 📫contact:+918838058761
 -    mail id:manibharathimaran34@gmail.com
 
